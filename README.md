@@ -40,4 +40,4 @@ Need to implement for Task2
 1.Properties file to handle the urls and browsers
 2.Hooks to handle the parllel exections and add attributes
 3.Testdata
-4.
+4.Try-Catch block implementetaion
