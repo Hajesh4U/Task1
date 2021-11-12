@@ -4,16 +4,14 @@ BasicCucumber POM FrameWork
 
 Installation (pre-requisites)
 JDK 1.8+ (make sure Java class path is set)
-Maven (make sure .m2 class path is set)
 Eclipse
-Eclipse Plugins for
-Maven
-Cucumber
+Eclipse Plugins for Cucumber
 Browser driver (make sure you have your desired browser driver and class path is set)
 
 //Folder Structure
 POM.xml
-TO add the dependencies from Mavan repository 
+To add the all required dependencies(eg.selenium/junit/cucumber) from Mavan Repository
+
 
 src/test/java/Pages/----> POM Object Repository
 1.loginPage.java ---> login page realted elements and Functions
